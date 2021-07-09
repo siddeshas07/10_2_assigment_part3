@@ -13,15 +13,15 @@ I  have used pycam ide  202.1  and firefix browser with version 89.0.2 (64-bit)
 
 <br> i  have tried to Code  <br>
 <br>. Maintain Automation Element locators.<br>
-<br>     Class name
-    CSS Selector
-    ID
-    Link text
-    Name
-    Partial link text
-    Tag name
-    XPath
-    <br>
+
+
+ <ul>
+  <li>classname</li>
+  <li>ID</li>
+  <li>CSS selector</li>
+    <li> xpath  </li>
+    <li> link </li>
+ </ul> 
 
 
 ![Screenshot](robotimg.png.png)
